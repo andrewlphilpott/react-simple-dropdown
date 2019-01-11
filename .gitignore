@@ -27,7 +27,7 @@ build/Release
 node_modules
 
 # Ignore compiled files
-lib
+# lib
 
 # I just don't like this file
 package-lock.json
